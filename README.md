@@ -24,6 +24,24 @@ claude plugin install crayon@crayon
 
 Or copy `skills/crayon/` into `~/.claude/skills/`.
 
+## Update
+
+Get the newest list of plugins:
+
+```bash
+claude plugin marketplace update crayon
+```
+
+Then update Crayon:
+
+```bash
+claude plugin update crayon@crayon
+```
+
+Restart Claude Code to use the new version.
+
+If you copied the folder, copy it again.
+
 ## Use
 
 Say "crayon this", or ask for simpler words. The agent also uses it on its own when it writes short text for players or users.
