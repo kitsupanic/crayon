@@ -46,18 +46,20 @@ If you copied the folder, copy it again.
 
 Say "crayon this", or ask for simpler words. The agent also uses it on its own when it writes short text for players or users.
 
-Pick a different grade:
+ Run the installed plugin:
 
 ```
-/crayon 5
+/crayon:crayon
 ```
+
+If you copied the skill folder instead, use `/crayon`.
 
 ## How it works
 
 1. Find out what the text means. Read the code around it.
 2. Keep names, numbers and words the reader already knows.
-3. Rewrite with short sentences and small words.
-4. Read every line out loud. Fix any word a kid would get stuck on.
+3. Rewrite with short sentences and small words. Keep all facts and warnings, even if the text needs more space.
+4. Read every line out loud. Keep the words from step 2. Simplify the rest.
 5. Show a before/after table.
 
 ## License
