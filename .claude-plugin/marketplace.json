@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "crayon",
+  "description": "Text that even a 3rd grader can read.",
+  "owner": {
+    "name": "kitsupanic",
+    "url": "https://github.com/kitsupanic"
+  },
+  "plugins": [
+    {
+      "name": "crayon",
+      "source": "./",
+      "description": "Write or rewrite text that even a 3rd grader can read it.",
+      "category": "productivity"
+    }
+  ]
+}
