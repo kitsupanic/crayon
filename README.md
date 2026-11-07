@@ -36,10 +36,10 @@ Pick a different grade:
 
 ## How it works
 
-1. Learn what the text really means, from the code or context.
+1. Find out what the text means. Read the code around it.
 2. Keep names, numbers and words the reader already knows.
 3. Rewrite with short sentences and small words.
-4. Read every line out loud. Fix what a kid would trip on.
+4. Read every line out loud. Fix any word a kid would get stuck on.
 5. Show a before/after table.
 
 ## License
