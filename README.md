@@ -10,7 +10,7 @@ Short sentences. Small words. Same meaning.
 | Paid for creeping — the bar fills faster while stalking | Your boost comes back faster when you sneak |
 | A deeper pool — one more band on the ring | More health |
 
-Good for game cards, menus, tooltips, hints, buttons and error messages.
+Good for game cards, menus, tooltips, hints, buttons and error messages. See [all the examples](EXAMPLES.md).
 
 ## Install (Claude Code)
 
