@@ -1,4 +1,10 @@
+![Crayon: text a 3rd grader can read](assets/banner.jpg)
+
 # Crayon
+
+[![Stars](https://img.shields.io/github/stars/kitsupanic/crayon?style=flat-square&color=e02424&label=stars)](https://github.com/kitsupanic/crayon/stargazers)
+[![Release](https://img.shields.io/github/v/release/kitsupanic/crayon?style=flat-square&color=e02424&label=release)](https://github.com/kitsupanic/crayon/releases)
+[![MIT license](https://img.shields.io/badge/license-MIT-e02424?style=flat-square)](LICENSE)
 
 An agent skill that writes text that a 3rd grader can read.
 
