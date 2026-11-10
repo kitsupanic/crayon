@@ -1,8 +1,12 @@
-# Examples: Anyquarium
+# Examples
 
-Anyquarium is an underwater game where you play a shark. "Boost" is the player's sprint move, so it stays as a keep-word. All rewrites target grade 3.
+Crayon works on any text. This page shows one real project, a game. All rewrites target grade 3.
 
-## Upgrade cards
+## Anyquarium (game)
+
+Anyquarium is an underwater game where you play a shark. "Boost" is the player's sprint move, so it stays as a keep-word.
+
+### Upgrade cards
 
 Picked on level-up. The cards show up three at a time, so every line reads differently.
 
@@ -19,7 +23,7 @@ Picked on level-up. The cards show up three at a time, so every line reads diffe
 | Butcher | Every diver heals more | Divers heal you more |
 | Iron Grip | Tear quicker — less time held still under the guns | Rip divers apart faster |
 
-## Shop upgrades
+### Shop upgrades
 
 Permanent upgrades bought between runs. They're on a different screen from the cards, so they may match a card's line.
 
@@ -31,7 +35,7 @@ Permanent upgrades bought between runs. They're on a different screen from the c
 | Rich Feeding | Every fish is worth more health | Fish heal you more |
 | Long Reach | Grab a diver from further out | Grab divers from farther away |
 
-## What changed, and why
+### What changed, and why
 
 - **Code words left.** "Budget", "pool", "band on the ring" and "shallower bar" came from the design notes. Players never see them.
 - **Dashes split or cut.** "Swallow quicker — a fuller mouth, sooner" said one thing twice. The short half was enough.

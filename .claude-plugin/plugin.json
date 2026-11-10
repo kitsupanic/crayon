@@ -1,6 +1,6 @@
 {
   "name": "crayon",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Write or rewrite text so a 3rd grader can read it. Short sentences, small words, same meaning.",
   "author": {
     "name": "kitsupanic",
@@ -8,6 +8,6 @@
   },
   "repository": "https://github.com/kitsupanic/crayon",
   "license": "MIT",
-  "keywords": ["writing", "plain-language", "readability", "ux-writing", "game-text"],
+  "keywords": ["writing", "plain-language", "readability", "ux-writing", "simple-english"],
   "skills": ["./skills/crayon"]
 }
