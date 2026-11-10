@@ -12,7 +12,7 @@ Short sentences. Small words. Same meaning.
 
 Good for any text people need to get on the first read: menus, buttons, error messages, docs, emails, video scripts, game text. Simple words also reach readers who are still learning the language.
 
-See full sets of rewrites from two real projects, a game and a desktop app, in [the examples](EXAMPLES.md).
+See a full set of rewrites from one real project in [the examples](EXAMPLES.md).
 
 ## Install (Claude Code)
 

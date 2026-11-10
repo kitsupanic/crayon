@@ -1,6 +1,6 @@
 # Examples
 
-Crayon works on any text. This page shows two real projects: a game and a desktop app. All rewrites target grade 3.
+Crayon works on any text. This page shows one real project, a game. All rewrites target grade 3.
 
 ## Anyquarium (game)
 
