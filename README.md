@@ -1,4 +1,4 @@
-![Crayon: text a 3rd grader can read](assets/banner.jpg)
+![Crayon: text that a 3rd grader can read](assets/banner.jpg)
 
 # Crayon
 
