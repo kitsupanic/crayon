@@ -26,6 +26,12 @@ claude plugin install crayon@crayon
 
 Or copy `skills/crayon/` into `~/.claude/skills/`.
 
+## Install (other agents)
+
+```bash
+npx skills add kitsupanic/crayon
+```
+
 ## Update
 
 Get the newest list of plugins:
