@@ -26,6 +26,7 @@ Write so a kid could read it out loud on the first try. The target is always gra
 - **Fit the space.** Aim for a label, button or other tight spot as short as the original or shorter. If the full meaning cannot fit, keep it and flag the space limit.
 - **Short sentences.** One idea each, about 10 words or fewer. In longer text, two short sentences beat one long one.
 - **Small, common words.** "Use" over "utilize". "Help" over "assist". "Get back" over "recover".
+- **Keep joining words.** "Text that a kid can read", not "text a kid can read". Words like "that", "who" and "which" show how a sentence fits together. Keep them, even if the sentence gets one word longer.
 - **One word per thing.** Pick one word for each thing and use it every time. "Plane" stays "plane", not "aircraft" in one line and "jet" in the next.
 - **Explain a hard word once.** If the text needs a word a 3rd grader does not know, explain it in one short sentence the first time. Then keep using it.
 - **Say what happens.** Plain facts in place of metaphors: "Your file is saved", not "your work is safe and sound".
